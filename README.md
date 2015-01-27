@@ -1,4 +1,7 @@
 # Quiz Question Answerer
+
+![Screenshot](http://a.pomf.se/uvthmh.PNG)
+
 Attempts to answer quiz questions using the Bing Search API and some simple trickery.
 
 ## How to use
